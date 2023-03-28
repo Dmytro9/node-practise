@@ -1,0 +1,1 @@
+- each module is loaded once and then is cached (by require function)
